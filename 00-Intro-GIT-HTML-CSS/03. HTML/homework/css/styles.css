@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(aqua, mediumslateblue);
+}
+h1{
+    color: crimson;
+}
+img{
+    width: 400px;
+}
+.thirdDiv{
+    margin: 600px 500px;
+    padding: 50px;
+    border-radius:20px crimson;
+    float: left;
+    background-color: yellow;
+    text-align: center;
+    display: flex;
+}
+.spanId{
+    font-size: 18px;
+}
+.divClass{
+text-align: center;
+}
